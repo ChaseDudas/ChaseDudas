@@ -1,5 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello There, I'm Chase 
 
+My expertise is writing client-side Javascript applying modern browser technologies. Teams enjoy working and collaborating with me because of my strong communication skills, positive attitude, and empathy.
+
 ```javascript
 <ChaseDudas
   pronouns = { "He" | "Him" | "His" },
