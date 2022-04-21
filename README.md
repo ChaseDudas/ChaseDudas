@@ -5,7 +5,8 @@ My expertise is writing client-side Javascript applying modern browser technolog
 ```javascript
 <ChaseDudas
   pronouns = { "He" | "Him" | "His" },
-  title = { "Frontend Developer" },
+  title = { "React Frontend Developer" },
+  favoriteColor = { "#B2FFFF" },
 />
 ```
 
