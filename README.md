@@ -1,4 +1,5 @@
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello There, I'm Chase 
+<!-- ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> Hello There, I'm Chase  -->
+## 👋 How Goes It? I'm Chase Dudas. Welcome to my Github 🚀
 
 My expertise is writing client-side Javascript applying modern browser technologies. Teams enjoy working and collaborating with me because of my strong communication skills, positive attitude, and empathy.
 
