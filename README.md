@@ -5,8 +5,7 @@
 My expertise is writing client-side Javascript applying modern browser technologies. Teams enjoy working and collaborating with me because of my strong communication skills, positive attitude, and empathy.
 
 ```javascript
-<ChaseDudas![Uploading Chase (1).png…]()
-
+<ChaseDudas
   pronouns = { "He" | "Him" | "His" },
   title = { "React Frontend Developer" },
   favoriteColor = { "#B2FFFF" },
