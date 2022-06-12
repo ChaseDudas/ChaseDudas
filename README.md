@@ -4,7 +4,9 @@
 
 My expertise is writing client-side Javascript applying modern browser technologies and frameworks. Teams enjoy working and collaborating with me because of my strong communication skills, positive attitude, and empathy towards others.
 
-As someone who has been in the tech industry and specifically the healthcare tech industry for over two years now, I deeply understand what it takes to work in a detail-oriented and ever-evolving industry. I am highly self-driven, as seen through my work at my former startup, and able to find creative solutions to overcome the most challenging problems. I thrive in an inclusive and teamwork-driven atmosphere that promotes the diversity and uniqueness of every employee. I value a dynamic work culture where people can explore their passions and feel included in every setting.
+As someone who has been in the tech industry and specifically the healthcare tech industry for over two years now, I deeply understand what it takes to work in a detail-oriented and ever-evolving industry. I am highly self-driven, as seen through my work at my former startup, and able to find creative solutions to overcome the most challenging problems.
+
+I thrive in an inclusive and teamwork-driven atmosphere that promotes the diversity and uniqueness of every employee. I value a dynamic work culture where people can explore their passions and feel included in every setting.
 
 ```javascript
 <ChaseDudas
