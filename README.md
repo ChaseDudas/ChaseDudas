@@ -26,7 +26,7 @@ I'm a Frontend Developer with a passion for creating rich, accessible, and optim
 
 ## 🌐 Open Source Contributions
 
-I believe in the power of open source and love contributing to projects that catch my interest. You can find a list of projects I've contributed to [here](https://github.com/ChaseDudas?tab=repositories).
+I believe in the power of open source and love contributing to projects that catch my interest. Ask me about the list of projects I've contributed to.
 
 ## 📫 How to Reach Me
 
