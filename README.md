@@ -1,51 +1,46 @@
-![Chase (1)](https://user-images.githubusercontent.com/60021702/172973362-23c144e8-0b4a-4628-98ff-f42ac1e26048.png)
+# Hello, I'm Chase Dudas 👋
 
-## 👋 How Goes It? Welcome to my Github
+<!-- ![banner image](https://placehold.it/850x280) -->
 
-My expertise is writing client-side Javascript applying modern browser technologies and frameworks. Teams enjoy working and collaborating with me because of my strong communication skills, positive attitude, and empathy towards others.
+I'm a Frontend Developer with a passion for creating rich, accessible, and optimized web experiences. I specialize in modern JavaScript frameworks and have a deep understanding of frontend technologies and tools. I believe that elegant code is not only functional but also beautiful, efficient, and reusable. 
+
+## 🔧 Tech Stack
+
+- **Programming Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3/Sass
+- **Frameworks/Libraries:** React, Redux, Next.js
+- **Testing:** Jest, Chai, Cypress
+- **Tools:** Node.js, Git, NPM, Yarn
+- **Other:** Responsive Design, Progressive Web Apps (PWA), Accessibility, SEO
+
+## 🚀 Experience
+
+- **Software Engineer 3** at Vivian _(2022-Present)_
+
+- **Frontend Developer** at BurstIQ _(2021-2022)_
+
+- **Co-Founder and CEO** at ZeroIn _(2020-2021)_ 
+
+## 🎓 Education
+
+- **Bachelor of Science in Computer Science**, University of Colorado, Boulder _(2016-2019)_
+
+## 🌐 Open Source Contributions
+
+I believe in the power of open source and love contributing to projects that catch my interest. You can find a list of projects I've contributed to [here](https://github.com/ChaseDudas?tab=repositories).
+
+## 📫 How to Reach Me
+
+- LinkedIn: [Chase Dudas](https://www.linkedin.com/in/ChaseDudas/)
+- Twitter: [@ChaseDudas](https://twitter.com/ChaseDudas)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaseDudas&show_icons=true&theme=radical)
+
+---
+
+<!---
+Teams enjoy working and collaborating with me because of my strong communication skills, positive attitude, and empathy towards others.
 
 As someone who has been in the tech industry and specifically the healthcare tech industry for over two years now, I deeply understand what it takes to work in a detail-oriented and ever-evolving industry. I am highly self-driven, as seen through my work at my former startup, and able to find creative solutions to overcome the most challenging problems.
 
 I thrive in an inclusive and teamwork-driven atmosphere that promotes the diversity and uniqueness of every employee. I value a dynamic work culture where people can explore their passions and feel included in every setting.
-
-```javascript
-<ChaseDudas
-  pronouns = { "He" | "Him" | "His" },
-  title = { "React Frontend Developer" },
-  favoriteColor = { "#B2FFFF" },
-/>
-```
-
-
-#### 🌐 Follow me on
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://linkedin.com/in/chasedudas) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@chasedudas) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chasedudas) 
-
-##### 👀 Check out my latest post on Medium
-[![Chase Dudas Medium](https://github-readme-medium.vercel.app/?username=chasedudas)](https://medium.com/@chasedudas)
-
-#### 💻 Tech Stack
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
-<!-- 
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<br />
-
----
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChaseDudas&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaseDudas&layout=compact" />
-</a>
- -->
+--->
