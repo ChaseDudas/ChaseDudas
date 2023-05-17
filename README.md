@@ -1,4 +1,4 @@
-# Hello, I'm Chase Dudas 👋
+# Hello World! 👋 I'm Chase 
 
 <!-- ![banner image](https://placehold.it/850x280) -->
 
