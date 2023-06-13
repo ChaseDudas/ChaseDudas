@@ -32,9 +32,6 @@ I believe in the power of open source and love contributing to projects that cat
 
 - LinkedIn: [Chase Dudas](https://www.linkedin.com/in/ChaseDudas/)
 - Twitter: [@ChaseDudas](https://twitter.com/ChaseDudas)
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaseDudas&show_icons=true&theme=radical)
-
 ---
 
 <!---
