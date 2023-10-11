@@ -8,7 +8,7 @@ I'm a Frontend Developer with a passion for creating rich, accessible, and optim
 
 - **Programming Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3/Sass
 - **Frameworks/Libraries:** React, Redux, Next.js
-- **Testing:** Jest, Chai, Cypress
+- **Testing:** Jest, Chai, Cypress, RTL
 - **Tools:** Node.js, Git, NPM, Yarn
 - **Other:** Responsive Design, Progressive Web Apps (PWA), Accessibility, SEO
 
